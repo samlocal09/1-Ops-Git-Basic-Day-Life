@@ -6,7 +6,7 @@ Tổng hợp các lệnh, trường hợp phổ biến, được sử dụng và
 
 - @{name}: Dùng để chỉ một biến/giá trị cần nhập vào
 
-##Local/Remote repository (repo)
+## Local/Remote repository (repo)
 
 Remote repo là nơi chia sẽ công khai hoặc trong nhóm người dùng nhất định được quản lý trên server.
 Local repo là nơi làm việc của mỗi thiết bị cụ thể, ví dụ là máy của bạn.
